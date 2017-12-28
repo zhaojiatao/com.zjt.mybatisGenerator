@@ -25,7 +25,7 @@ import org.mybatis.generator.config.PropertyRegistry;
  * @since 1.9.10
  * @version 1.9.10
  * @作者：niexiaohui
- * @创建时间：2016年11月22日
+ * @创建时间：2017年11月22日
  * @修改记录：
  */
 public class MyCommentGenerator implements CommentGenerator{
